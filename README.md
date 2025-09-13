@@ -33,7 +33,6 @@ This project demonstrates how **AI and healthcare can merge** to enhance diagnos
 
 ## 🛠️ Tech Stack  
 
-**Frontend:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
@@ -41,12 +40,7 @@ This project demonstrates how **AI and healthcare can merge** to enhance diagnos
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
-
-**Deployment:**  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)   
-
-**Version Control:**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ---
 
@@ -54,14 +48,13 @@ This project demonstrates how **AI and healthcare can merge** to enhance diagnos
 
 <p align="center">
   <!-- Replace these image paths with your actual project screenshots -->
-  <img src="images/Website frontend.png" alt="Home Page" width="45%"/>
-  <img src="images/aquawatt gpt prototype.png" alt="Prototype Model" width="45%"/>
+  <img src="images/bh.png" alt="Home Page" width="45%"/>
+  <img src="images/bt.png" alt="Prototype Model" width="45%"/>
 </p>
 
 <p align="center">
   <!-- Replace these image paths with your actual project screenshots -->
-  <img src="images/circuit and flow diagram.png" alt="Block & Wiring Diagram" width="45%"/>
-  <img src="images/water prototype.jpeg" alt="Water" width="45%"/>
+  <img src="images/bc.png" alt="Block & Wiring Diagram" width="45%"/>
 </p>
 
 ---
